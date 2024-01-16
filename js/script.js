@@ -1,15 +1,15 @@
 
 
-const RADIO_NAME = 'Game! Radio 1';
+const RADIO_NAME = 'El Alertado';
 
 // SELECT ARTWORK PROVIDER, ITUNES, DEEZER & SPOTIFY  eg : spotify 
 var API_SERVICE = 'SPOTIFY';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR ETC.... DOES NOT SUPPORT HLS
-const URL_STREAMING = 'https://stream-51.zeno.fm/cfhkm5fs1uhvv?zs=HOu6hxV1SG-7iGi9WGVTqQ';
+const URL_STREAMING = 'https://stream-149.zeno.fm/kyucujwcnkntv?zs=Iw0waeopR5SYL4yVR8XzqQ';
 
 //NOW PLAYING API.
-const API_URL = 'https://api.joeycast.com/songid/4eb1b192-cff3-4b95-a46c-13cbc5048730'
+const API_URL = 'https://api.streamafrica.net/metadata/index.php?z='https://stream-149.zeno.fm/kyucujwcnkntv?zs=Iw0waeopR5SYL4yVR8XzqQ
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
